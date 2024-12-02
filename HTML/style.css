@@ -1,0 +1,23 @@
+h1{
+ text-align: center;
+ color: brown;
+ font-size: 50px;
+ font-weight: 700;
+ 
+}
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+}
+body{
+    background-color: rgb(0, 255, 221);
+}
+h2{
+    color: chocolate;
+}
+table,tr,td{
+    border: 1px solid black
+}
+h3{
+    color: chocolate;
+}
